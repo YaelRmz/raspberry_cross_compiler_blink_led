@@ -1,4 +1,4 @@
-# Prender un led con Raspberry 3B+ en C usando la biblioteca Wiring Pi
+# Prender un led con Raspberry 3B+ en C usando la biblioteca Wiring Pi usando compilación cruzada
 
 ## Paquetes necesarios 
 Ubuntu
