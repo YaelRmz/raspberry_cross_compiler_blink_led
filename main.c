@@ -1,3 +1,8 @@
+
+/*
+    Autor:       Yael Ramirez
+    Descripción: Encender un led con Raspberry 3B+ y biblioteca WiringPi (http://wiringpi.com/)
+*/
 #include <wiringPi.h>
 #include <stdio.h>
 #include <sys/time.h>
