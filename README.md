@@ -36,3 +36,6 @@ Para ver la configuración de pines de la Raspberry ejecutamos (en la terminal d
 ```bash
 gpio readall
 ```
+
+
+Autor:  Yael Ramirez (https://github.com/YaelRmz)
